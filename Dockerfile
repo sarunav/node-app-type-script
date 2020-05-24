@@ -1,4 +1,4 @@
-FROM sarunav/node-app-type-script:3.4-v10.16.0-4.2.0
+FROM sarunav/node-app-type-script:3.4-v6.9.4-4.2.0
 
 ENV PORT 3001
 
