@@ -1,3 +1,32 @@
-# Node Js Starter with Type script
+## Starter Node.js applications written in TypeScript
 
-> Node Js API starter app with type script.
+### Development
+
+```bash
+npm run dev
+```
+
+### Run the app
+
+```bash
+/dist nodemon index
+```
+
+### Running tests
+
+```bash
+npm test
+```
+
+### Linting
+
+```bash
+npm run lint
+```
+
+### Building a container
+
+```bash
+docker build .
+```
+
